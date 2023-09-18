@@ -15,3 +15,9 @@ A continuación, te mostramos los cursos que te cambiarán la vida:
 1. Curso Desarrollo Full Stack Web Development
 2. Curso Diseño UX/UI
 3. Curso Data Science
+4. Curso Ciberseguridad Red Team
+5. Blockchain
+
+También debes de saber que nuestra tasa de empleabilidad del 98%
+establece un referente en toda Andalucía. Casi todos nuestros alumnos
+aseguran empleo tras completar nuestros cursos.
